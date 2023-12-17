@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.profile-image-container {
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: -75px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+}
+
+.bg-image {
+    background-image: url(/bg.jpg);
+    object-fit: cover;
+    background-position: bottom;
+}
+
+.swiper-slide {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.s2-head {
+
+    background-image: url("/2bg.gif");
+    border-radius: 0% 0% 20% 0%;
+    background-size: cover;
+}
+
+.s3 {
+    background-image: url("/game_bg.png");
+    background-size: cover;
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
+}
+
+.s4 {
+    background-image: url("/blog1.webp");
+    background-size: cover;
+}
