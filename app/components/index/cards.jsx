@@ -104,7 +104,7 @@ export default function Cards() {
                             <motion.div whileHover={{ y: -12 }} className="rounded-3xl shadow-xl w-32 h-32 bg-white s"></motion.div>
                             <motion.div whileHover={{ y: -12 }} className="rounded-3xl shadow-xl w-32 h-32 bg-white s"></motion.div>
                         </div>
-                        <div class="w-full h-1/5"></div>
+                        <div className="w-full h-1/5"></div>
                     </div>
                 </SwiperSlide>
 
