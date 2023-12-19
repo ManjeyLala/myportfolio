@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## INTRODUCTION
+
+Hi i am Manoj Gautam AKA Manjeyy
+
+This is the complete source code for my personal [portfolio website!](https://mgautam.com.np/)
 
 ## Getting Started
 
